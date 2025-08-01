@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 227a8d7befdf9bc499eb32fbbebb181b, type: 3}
+  m_Name: Sanador
+  m_EditorClassIdentifier: 
+  unitName: Sanador
+  unitType: 3
+  unitClass: 5
+  maxHealth: 90
+  attackDamage: 5
+  attackSpeed: 2
+  attackRange: 3
+  descripcion: Cura todos los males
+  prefab: {fileID: 2267702183794301243, guid: 0aa1bcee53aee4742b79dcb20d72569d, type: 3}
